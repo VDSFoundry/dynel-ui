@@ -26,7 +26,8 @@
   },
   "homepage": "https://github.com/VDSFoundry/dynel-ui",
   "dependencies": {
-    "dynel-core": "*"
+    "dynel-core": "*",
+    "underscore": "*"
   },
   "devDependencies": {
     "chai": "^1.9.1",
