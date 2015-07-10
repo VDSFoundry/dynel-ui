@@ -1,6 +1,6 @@
 {
   "name": "dynel-ui",
-  "version": "0.0.67",
+  "version": "0.0.68",
   "description": "Dynamic Elements UI framework",
   "main": "index.js",
   "directories": {
